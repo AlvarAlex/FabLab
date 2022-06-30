@@ -1,0 +1,4 @@
+<?php
+$usuario;
+$user;
+$hola;
